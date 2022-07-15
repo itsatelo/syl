@@ -126,3 +126,10 @@ npm i syl.js@es
     Current Release: @1.0.0-f by @itsatelo<br>
     Released On: July 15th, 2022
 </p>
+
+<h1 align="center">
+    Notice for GitHub<br>
+</h1>
+<p align="center">
+    This repository uses only the @es tag version of Syl.     
+</p>
