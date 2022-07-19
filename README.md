@@ -9,6 +9,9 @@
     Create and utilize new forms of APIs.
 </p>
 
+# Notice
+My API is currently down for renovations, and as such, the `Syl` tool will not work. I plan on updating `syl.js` to `@1.1.0` after these renovations finish, which will support the renovations on the API.
+
 # Getting Started with Syl
 ## Installing `syl.js@1.0.0-f`:
 > - Open a new Terminal or Command Prompt.
